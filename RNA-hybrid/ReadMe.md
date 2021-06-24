@@ -1,4 +1,4 @@
-# RNA-hybrid Circuit Folders:
+# RNA-Hybrid Circuit Folders:
 
 (1) Sensitivity Analysis
 
