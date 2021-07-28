@@ -158,7 +158,7 @@ for ij = 1:10  %%% iterating over number of parameter sets
             Simu_t = t./60;
 
             subplot(4,4,subp)
-            plot(Simu_t, TetR, 'Color', [0.5 0.5 0.5], 'LineWidth', 0.5)
+            plot(Simu_t, TetR, 'Color',  [1 0 1], 'LineWidth', 0.5)
             set(gca,'FontName','Times New Roman')
             set(gca,'FontSize',18)
             ylim([0 6500])
